@@ -8,7 +8,7 @@ Installation
 
 In Ubuntu you can install MDPreview like this:
 
-    apt-get install python-gtk2 python-gtkmozembed
+    apt-get install python-gtk2 python-gtkmozembed python-markdown
 
 Then, simply copy mdpreview.py to /usr/bin/mdpreview:
 
